@@ -1,0 +1,25 @@
+{
+    "name": "Тестовая NFT моего Резюме #0",
+    "image": "https://devcustrom.github.io/resume/image.jpg",
+    "attributes": [
+      {
+        "trait_type": "Категория",
+        "value": "Резюме"
+      },
+      {
+        "trait_type": "Вид",
+        "value": "Фрилансер"
+      },
+      {
+        "trait_type": "Левел",
+        "value": "Синьор-помидор"
+      }
+    ],
+    "buttons": [
+      {
+        "label": "Любимая телега",
+        "uri": "https://t.me/dj300volt"
+      }
+    ],
+    "description": "Я крутой перец заминтил nft в testnet getgems 23.05.2024"
+}
